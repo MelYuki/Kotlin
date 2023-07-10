@@ -1,0 +1,5 @@
+Demandez à l'utilisateur son nom et son age.
+
+Affichez lui un message de bienvenue:
+
+"Bonjour <machin>, vous avez <age> ans"

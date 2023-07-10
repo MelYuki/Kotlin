@@ -1,0 +1,4 @@
+Demandez à l'utilisateur d'entrer 10 nombres.
+Calculez la moyenne.
+Chaque nombre doit être entre -100 et 100.
+Faite recommencer l'écriture d'un nombre à l'utilisateur s'il ne respecte par la contrainte.

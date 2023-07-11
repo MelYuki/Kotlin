@@ -1,0 +1,4 @@
+
+Générer un tableau contenant 10 entiers aléatoires entre 1 et 100.
+
+Triez puis affichez ce tableau.

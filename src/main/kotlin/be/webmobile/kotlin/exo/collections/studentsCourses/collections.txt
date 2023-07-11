@@ -1,0 +1,10 @@
+
+Soit les élèves suivant:
+- luc, dominique, marie
+Soit les cours suivants:
+- java, js, kotlin
+
+Ecrivez un programme permettant 2 choses:
+
+- pour un cours donner une note(sur 20) à tous les élèves
+- afficher les notes d'un élève pour chaque cours

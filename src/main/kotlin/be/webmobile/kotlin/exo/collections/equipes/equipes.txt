@@ -1,0 +1,13 @@
+Créez un manager d'equipe:
+
+Dans un programme console(avec interaction user),
+permettez la gestion d'equipe de joueur
+
+Le programme permettra plusieurs actions:
+1) ajouter un joueur (il n'a pas d'equipe)
+2) ajouter une equipe (sans joueur)
+3) ajouter un joueur à une équipe
+4) afficher les joueurs d'une équipe
+
+Un joueur: le nom du joueur
+Une équipe: nom de l'equipe => list des joueurs

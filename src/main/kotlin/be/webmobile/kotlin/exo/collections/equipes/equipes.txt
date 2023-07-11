@@ -1,3 +1,4 @@
+
 Créez un manager d'equipe:
 
 Dans un programme console(avec interaction user),

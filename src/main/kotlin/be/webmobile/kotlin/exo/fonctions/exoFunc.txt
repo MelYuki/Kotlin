@@ -1,0 +1,8 @@
+
+- Créez une fonction qui crée une copy d'un tableau (Array<Int>) mais trié; testez la fonction
+
+- Créez une fonction qui retourne
+les éléments d'un tableau (Array<String>) validé par predicat ( (element: String) -> Boolean ); 	
+	testez la fonction pour les predicats suivants:
+	- l'élément commence par une maj
+	- l'élément a une taille >= 5
